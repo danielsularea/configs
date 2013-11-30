@@ -1,7 +1,7 @@
 
 # Daniel's configs 
 
-# You should read below if you want to use these
+### You should read below if you want to use these
 
 Most of these configs are from the days I was using Arch. Everything is available in
 the repos so you don't need to compile anything from source.
