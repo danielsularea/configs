@@ -3,8 +3,6 @@
 
 ### You should read below if you want to use these
 
-Most of these configs are from the days I was using Arch. Everything is available in
-the repos so you don't need to compile anything from source.
 
 You will need to modify some of the paths in a few files as they include my name. 
 For xmonad, copy the dir `.xmonad` into your home directory and recompile with:
